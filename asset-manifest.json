@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alona-fourth/static/css/main.7acaea2f.css",
+    "main.js": "/alona-fourth/static/js/main.c569f57f.js",
+    "index.html": "/alona-fourth/index.html",
+    "main.7acaea2f.css.map": "/alona-fourth/static/css/main.7acaea2f.css.map",
+    "main.c569f57f.js.map": "/alona-fourth/static/js/main.c569f57f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.c569f57f.js"
+  ]
+}
